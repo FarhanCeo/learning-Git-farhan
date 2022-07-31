@@ -1,4 +1,0 @@
-Hello I am Farhan Ahmed 
-This is my Second file
-Lets save it
-This is notepad commit
